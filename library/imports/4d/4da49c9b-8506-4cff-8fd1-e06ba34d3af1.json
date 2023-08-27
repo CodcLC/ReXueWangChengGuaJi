@@ -1,0 +1,642 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "UISkillInfo",
+    "root": {
+      "__id__": 5
+    },
+    "node": {
+      "__id__": 12
+    },
+    "LabSkillDec": {
+      "__id__": 13
+    },
+    "LabSkillName": {
+      "__id__": 11
+    },
+    "SpSkillIcon": {
+      "__id__": 10
+    },
+    "BtnClose": {
+      "__id__": 4
+    },
+    "NodeGuide": {
+      "__id__": 14
+    },
+    "Player": {
+      "__id__": 5
+    },
+    "NodePlayer": {
+      "__id__": 8
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "UISkillInfo",
+    "_children": [
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Widget",
+        "_alignFlags": 45,
+        "node": {
+          "__id__": 1
+        }
+      },
+      {
+        "__type__": "7e5aabTr7NFSrgUmQutQQeE",
+        "node": {
+          "__id__": 1
+        },
+        "NodePlayer": {
+          "__id__": 8
+        },
+        "Player": {
+          "__id__": 5
+        },
+        "NodeGuide": {
+          "__id__": 14
+        },
+        "BtnClose": {
+          "__id__": 4
+        },
+        "SpSkillIcon": {
+          "__id__": 10
+        },
+        "LabSkillName": {
+          "__id__": 11
+        },
+        "LabSkillDec": {
+          "__id__": 13
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 750,
+      "height": 1334
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        375,
+        667,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "LayoutBg",
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 9
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 8
+      },
+      {
+        "__id__": 14
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "82e70e69-a929-4101-a051-2962d46a35d6"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "10lNtg5VxKkJWMq8Qs7tsG",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 600,
+      "height": 786
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "bg",
+    "_opacity": 153,
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "_type": 1,
+        "_sizeMode": 0,
+        "node": {
+          "__id__": 3
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "f0048c10-f03e-4c97-b9d3-3506e1d58952"
+        }
+      },
+      {
+        "__type__": "cc.Widget",
+        "_alignFlags": 45,
+        "_originalWidth": 40,
+        "_originalHeight": 40,
+        "node": {
+          "__id__": 3
+        }
+      },
+      {
+        "__type__": "cc.BlockInputEvents",
+        "node": {
+          "__id__": 3
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "41P9w8Bl9LU6ghqdRTvfQf",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 750,
+      "height": 1334
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "BtnClose",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 4
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "6aa12285-e55b-4676-8d71-5799d22432a6"
+        }
+      },
+      {
+        "__type__": "08526eaTJpCXYM9VKuRXAnP",
+        "node": {
+          "__id__": 4
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "6dzvM4c5pJp7Zqe+bHoZ9F",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 47,
+      "height": 55
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        261.48,
+        346.517,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Player",
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "defaultSkin": "cq_js0",
+        "_preCacheMode": 0,
+        "loop": false,
+        "premultipliedAlpha": false,
+        "_animationName": "jn_lxhy",
+        "_playTimes": 1,
+        "node": {
+          "__id__": 5
+        },
+        "_materials": [
+          {
+            "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+          }
+        ],
+        "_N$skeletonData": {
+          "__uuid__": "99a8ac80-38d1-45d8-9586-df5aa0538a31"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "11uKLyoI9H26WsQ1W7uRZP",
+      "root": {
+        "__id__": 5
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 236,
+      "height": 187.25
+    },
+    "_parent": {
+      "__id__": 8
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "LabSkillName",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__id__": 11
+      },
+      {
+        "__type__": "cc.LabelOutline",
+        "_width": 3,
+        "node": {
+          "__id__": 6
+        },
+        "_color": {
+          "__type__": "cc.Color",
+          "a": 255,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "7bcoxptXlHVb+zLzzh9T0R",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 294,
+      "height": 96.72
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        242.224,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "LabSkillDec",
+    "_parent": {
+      "__id__": 2
+    },
+    "_children": [
+      {
+        "__id__": 12
+      }
+    ],
+    "_components": [
+      {
+        "__id__": 13
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "e9YJoRaGxFB7GcktYLODz2",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 913.07,
+      "height": 50.4
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        140.766,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "NodePlayer",
+    "_parent": {
+      "__id__": 2
+    },
+    "_children": [
+      {
+        "__id__": 5
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "1fqvOJECBCK4ASigiO/wYz",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -247.339,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "SpSkillIcon",
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__id__": 10
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "30S5W+9ppLSaGJzU3y4yiI",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 133,
+      "height": 130
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        307.355,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Sprite",
+    "node": {
+      "__id__": 9
+    },
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ]
+  },
+  {
+    "__type__": "cc.Label",
+    "_N$string": "开门见山",
+    "_fontSize": 72,
+    "_lineHeight": 72,
+    "_N$horizontalAlign": 1,
+    "_N$verticalAlign": 1,
+    "node": {
+      "__id__": 6
+    },
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ]
+  },
+  {
+    "__type__": "cc.PrivateNode",
+    "_name": "RICHTEXT_CHILD",
+    "_objFlags": 1024,
+    "_parent": {
+      "__id__": 7
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "_N$string": "10%概率对前方单体目标造成150%伤害",
+        "_fontSize": 52,
+        "_N$verticalAlign": 1,
+        "node": {
+          "__id__": 12
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "d2krVgX8JIS49eEHIt9sJ3",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 913.07,
+      "height": 50.4
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -456.535,
+        -25.2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.RichText",
+    "_N$string": "10%概率对前方单体目标造成150%伤害",
+    "_N$fontSize": 52,
+    "node": {
+      "__id__": 7
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "NodeGuide",
+    "_parent": {
+      "__id__": 2
+    },
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "a5/VR6aU1GtpgDaKgNF18h",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 600,
+      "height": 620
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        -87.804,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

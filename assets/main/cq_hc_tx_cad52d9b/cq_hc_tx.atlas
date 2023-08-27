@@ -1,0 +1,20 @@
+
+cq_hc_tx.png
+size: 436,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hc_guang1
+  rotate: false
+  xy: 2, 2
+  size: 215, 215
+  orig: 221, 221
+  offset: 3, 3
+  index: -1
+hc_guang2
+  rotate: false
+  xy: 219, 2
+  size: 215, 215
+  orig: 219, 219
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "AnimTurn",
+  "_duration": 9,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 9,
+          "value": -360
+        }
+      ]
+    }
+  }
+}

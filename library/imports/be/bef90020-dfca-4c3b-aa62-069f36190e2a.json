@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cq_zy_smsr",
+    "texture": "f7aac71b-4eb1-4023-b95b-c983e1cc22f4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      110,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      110,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cq_zy_btd",
+    "texture": "565a5eb6-3ca2-4f41-9916-a372ddb22625",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      417,
+      87
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      417,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+
+cq_hc_d.png
+size: 875,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hc_d1_1
+  rotate: true
+  xy: 2, 422
+  size: 591, 299
+  orig: 593, 299
+  offset: 1, 0
+  index: -1
+hc_d1_2
+  rotate: false
+  xy: 2, 2
+  size: 418, 418
+  orig: 420, 420
+  offset: 1, 1
+  index: -1
+hc_d1_3
+  rotate: false
+  xy: 303, 468
+  size: 545, 545
+  orig: 547, 547
+  offset: 1, 1
+  index: -1
+hc_d2
+  rotate: false
+  xy: 422, 15
+  size: 451, 451
+  orig: 454, 454
+  offset: 2, 2
+  index: -1
+hv_jt
+  rotate: true
+  xy: 303, 441
+  size: 25, 38
+  orig: 29, 40
+  offset: 2, 1
+  index: -1

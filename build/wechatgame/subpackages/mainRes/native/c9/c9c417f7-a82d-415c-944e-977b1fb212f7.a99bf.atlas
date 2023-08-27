@@ -1,0 +1,90 @@
+
+enemy05.png
+size: 136,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5_L_hand1
+  rotate: false
+  xy: 84, 206
+  size: 50, 53
+  orig: 52, 55
+  offset: 1, 1
+  index: -1
+5_L_hand2
+  rotate: true
+  xy: 2, 99
+  size: 55, 77
+  orig: 58, 79
+  offset: 1, 1
+  index: -1
+5_L_hand3
+  rotate: true
+  xy: 2, 300
+  size: 48, 81
+  orig: 51, 83
+  offset: 1, 1
+  index: -1
+5_R_hand1
+  rotate: true
+  xy: 2, 156
+  size: 62, 77
+  orig: 64, 79
+  offset: 1, 1
+  index: -1
+5_R_hand2
+  rotate: true
+  xy: 2, 38
+  size: 59, 71
+  orig: 61, 73
+  offset: 1, 1
+  index: -1
+5_R_hand3
+  rotate: true
+  xy: 2, 350
+  size: 45, 97
+  orig: 47, 99
+  offset: 1, 1
+  index: -1
+5_body
+  rotate: false
+  xy: 2, 397
+  size: 123, 167
+  orig: 123, 167
+  offset: 0, 0
+  index: -1
+5_head
+  rotate: false
+  xy: 2, 220
+  size: 80, 78
+  orig: 82, 80
+  offset: 1, 1
+  index: -1
+5_leg1
+  rotate: false
+  xy: 85, 261
+  size: 46, 63
+  orig: 48, 65
+  offset: 1, 1
+  index: -1
+5_leg2
+  rotate: true
+  xy: 101, 352
+  size: 43, 32
+  orig: 45, 34
+  offset: 1, 1
+  index: -1
+5_leg3
+  rotate: false
+  xy: 101, 326
+  size: 27, 24
+  orig: 29, 26
+  offset: 1, 1
+  index: -1
+5_weapon
+  rotate: true
+  xy: 81, 2
+  size: 202, 53
+  orig: 204, 55
+  offset: 1, 1
+  index: -1

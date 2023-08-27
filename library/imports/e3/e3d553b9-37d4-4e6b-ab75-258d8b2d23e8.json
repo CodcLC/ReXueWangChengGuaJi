@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cq_yd_tsd",
+    "texture": "2598a214-b3c1-48cb-88bb-04f7fe1cebc4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      513,
+      217
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      513,
+      217
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

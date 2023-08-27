@@ -1,0 +1,125 @@
+
+enemy_atk.png
+size: 1925,832
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+8_atk10
+  rotate: false
+  xy: 1783, 2
+  size: 140, 425
+  orig: 143, 429
+  offset: 1, 2
+  index: -1
+8_atk11
+  rotate: true
+  xy: 915, 62
+  size: 178, 417
+  orig: 180, 421
+  offset: 1, 2
+  index: -1
+8_atk12
+  rotate: true
+  xy: 504, 40
+  size: 194, 409
+  orig: 196, 412
+  offset: 1, 1
+  index: -1
+8_atk4
+  rotate: true
+  xy: 1714, 429
+  size: 154, 182
+  orig: 158, 186
+  offset: 2, 2
+  index: -1
+8_atk5
+  rotate: false
+  xy: 1735, 585
+  size: 185, 245
+  orig: 188, 249
+  offset: 1, 2
+  index: -1
+8_atk6
+  rotate: true
+  xy: 2, 37
+  size: 197, 500
+  orig: 200, 503
+  offset: 1, 2
+  index: -1
+8_atk7
+  rotate: true
+  xy: 1236, 461
+  size: 171, 476
+  orig: 173, 479
+  offset: 1, 1
+  index: -1
+8_atk8
+  rotate: true
+  xy: 1236, 634
+  size: 196, 497
+  orig: 199, 501
+  offset: 1, 2
+  index: -1
+8_atk9
+  rotate: true
+  xy: 1220, 291
+  size: 168, 466
+  orig: 171, 470
+  offset: 1, 2
+  index: -1
+9_atk_10
+  rotate: false
+  xy: 2, 534
+  size: 412, 296
+  orig: 423, 304
+  offset: 4, 4
+  index: -1
+9_atk_11
+  rotate: false
+  xy: 2, 236
+  size: 412, 296
+  orig: 423, 304
+  offset: 4, 4
+  index: -1
+9_atk_12
+  rotate: false
+  xy: 416, 534
+  size: 412, 296
+  orig: 423, 304
+  offset: 4, 4
+  index: -1
+9_atk_13
+  rotate: false
+  xy: 830, 242
+  size: 388, 295
+  orig: 406, 305
+  offset: 5, 5
+  index: -1
+9_atk_14
+  rotate: true
+  xy: 1334, 8
+  size: 281, 290
+  orig: 292, 300
+  offset: 4, 5
+  index: -1
+9_atk_7
+  rotate: true
+  xy: 1626, 10
+  size: 279, 155
+  orig: 292, 160
+  offset: 12, 4
+  index: -1
+9_atk_8
+  rotate: false
+  xy: 830, 539
+  size: 404, 291
+  orig: 415, 301
+  offset: 6, 4
+  index: -1
+9_atk_9
+  rotate: false
+  xy: 416, 236
+  size: 406, 296
+  orig: 416, 304
+  offset: 4, 4
+  index: -1

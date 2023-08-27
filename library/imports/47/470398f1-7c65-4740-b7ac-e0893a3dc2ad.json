@@ -1,0 +1,414 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "Player",
+    "root": {
+      "__id__": 1
+    },
+    "_parent": {
+      "__id__": 1
+    },
+    "node": {
+      "__id__": 7
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Player",
+    "_groupIndex": 2,
+    "groupIndex": 2,
+    "_children": [
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 2
+      },
+      {
+        "__type__": "cc.Node",
+        "_name": "NodeEff",
+        "_parent": {
+          "__id__": 1
+        },
+        "_prefab": {
+          "__type__": "cc.PrefabInfo",
+          "fileId": "5fod6hLIBCj5gidhvmVCf9",
+          "root": {
+            "__id__": 1
+          }
+        }
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 236,
+      "height": 187.25
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "SpHpBarBg",
+    "_groupIndex": 2,
+    "groupIndex": 2,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 2
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "44676c8b-04f4-428a-9253-9f1d27c3dca7"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "4amLjN0GtBT47NpvCY98YW",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 136,
+      "height": 27
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        195.147,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "LabHp",
+    "_groupIndex": 2,
+    "groupIndex": 2,
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "_N$string": "1000",
+        "_fontSize": 36,
+        "_lineHeight": 36,
+        "_styleFlags": 1,
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1,
+        "node": {
+          "__id__": 3
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ]
+      },
+      {
+        "__type__": "cc.LabelOutline",
+        "_width": 2,
+        "node": {
+          "__id__": 3
+        },
+        "_color": {
+          "__type__": "cc.Color",
+          "a": 255,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "91HyBbxaFO8KFRb7ubIteA",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 84.09,
+      "height": 49.36
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.5,
+        0.5,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "SpSalutation",
+    "_active": false,
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "_sizeMode": 2,
+        "_isTrimmedMode": false,
+        "node": {
+          "__id__": 4
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ]
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 4
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "2eOufk4aVL871MOIlnYptp",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 440,
+      "height": 330
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        -5,
+        196.843,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.55,
+        0.55,
+        1
+      ]
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "NodeFireEff",
+    "_active": false,
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.ParticleSystem",
+        "_dstBlendFactor": 1,
+        "_stopped": false,
+        "totalParticles": 289,
+        "emissionRate": 262.7272727272727,
+        "life": 1.1,
+        "lifeVar": 0.4,
+        "angleVar": 25,
+        "startSize": 5,
+        "endSize": 25,
+        "startSpin": 10,
+        "_positionType": 1,
+        "speed": 150,
+        "speedVar": 5,
+        "tangentialAccel": 0,
+        "node": {
+          "__id__": 5
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_startColor": {
+          "__type__": "cc.Color",
+          "a": 255,
+          "b": 51,
+          "g": 204,
+          "r": 255
+        },
+        "_startColorVar": {
+          "__type__": "cc.Color",
+          "a": 25,
+          "b": 51,
+          "g": 0,
+          "r": 0
+        },
+        "_endColor": {
+          "__type__": "cc.Color",
+          "a": 255,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "_endColorVar": {
+          "__type__": "cc.Color",
+          "a": 0,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "posVar": {
+          "__type__": "cc.Vec2",
+          "x": 10,
+          "y": 3
+        },
+        "_file": {
+          "__uuid__": "59c4cb5e-e069-42ab-8c9f-a468c264889e"
+        },
+        "_spriteFrame": {
+          "__uuid__": "344f1034-1aa3-4482-87f6-3823e8fcfc39"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "9fwbA7S5lJApMxu0OEwb0B",
+      "root": {
+        "__id__": 1
+      }
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "NodeSkeleton",
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "defaultSkin": "cq_js0",
+        "defaultAnimation": "dj",
+        "_preCacheMode": 0,
+        "premultipliedAlpha": false,
+        "_animationName": "dj",
+        "node": {
+          "__id__": 6
+        },
+        "_materials": [
+          {
+            "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+          }
+        ],
+        "_N$skeletonData": {
+          "__uuid__": "99a8ac80-38d1-45d8-9586-df5aa0538a31"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "e3w5QR1+tKdLGjSQ+uZ9aj",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 236,
+      "height": 187.25
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "SpHpBar",
+    "_groupIndex": 2,
+    "groupIndex": 2,
+    "_parent": {
+      "__id__": 2
+    },
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "_type": 3,
+        "_fillRange": 1,
+        "node": {
+          "__id__": 7
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "947f90cf-f9e8-4357-8c8c-5e36149ff39e"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "617DrgKy5LKpwEhPiYb3Zw",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 120,
+      "height": 14
+    }
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cq_zb_chd3",
+    "texture": "690ae67b-f0a1-42bb-b33d-73b0f5550a21",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      291,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      291,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

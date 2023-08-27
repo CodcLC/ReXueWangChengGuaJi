@@ -1,0 +1,149 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "cq_hc_tx",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "hb4410BOrc2FLMmXeZs/eCDnujA=",
+      "spine": "3.8.75"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "hc_guang2",
+        "parent": "root"
+      },
+      {
+        "name": "hc_guang1",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "hc_guang2",
+        "bone": "hc_guang2"
+      },
+      {
+        "name": "hc_guang1",
+        "bone": "hc_guang1"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "hc_guang1": {
+            "hc_guang1": {
+              "width": 221,
+              "height": 221
+            }
+          },
+          "hc_guang2": {
+            "hc_guang2": {
+              "width": 219,
+              "height": 219
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "ani1": {
+        "slots": {
+          "hc_guang1": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.25,
+                "c3": 0.223
+              },
+              {
+                "time": 0.1,
+                "color": "ffffffff",
+                "curve": 0.25,
+                "c3": 0.223
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "hc_guang1"
+              }
+            ]
+          },
+          "hc_guang2": {
+            "color": [
+              {
+                "color": "ffffff00",
+                "curve": 0.25,
+                "c3": 0.223
+              },
+              {
+                "time": 0.2333,
+                "color": "ffffffff",
+                "curve": 0.25,
+                "c3": 0.223
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "hc_guang2"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "hc_guang1": {
+            "scale": [
+              {
+                "curve": 0.25,
+                "c3": 0.055
+              },
+              {
+                "time": 0.4333,
+                "x": 2,
+                "y": 2
+              }
+            ]
+          },
+          "hc_guang2": {
+            "scale": [
+              {
+                "x": 0.4,
+                "y": 0.4,
+                "curve": 0.06,
+                "c3": 0.062,
+                "c4": 1.01
+              },
+              {
+                "time": 0.6,
+                "x": 2.4,
+                "y": 2.4
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\ncq_hc_tx.png\nsize: 436,219\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nhc_guang1\n  rotate: false\n  xy: 2, 2\n  size: 215, 215\n  orig: 221, 221\n  offset: 3, 3\n  index: -1\nhc_guang2\n  rotate: false\n  xy: 219, 2\n  size: 215, 215\n  orig: 219, 219\n  offset: 2, 2\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "71f8d77d-ff30-4d58-9edb-0232c5db1584"
+    }
+  ],
+  "textureNames": [
+    "cq_hc_tx.png"
+  ],
+  "scale": 1
+}

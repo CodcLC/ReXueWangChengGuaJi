@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cq_js_sbd",
+    "texture": "24278afd-85d4-457c-a33f-afdd31325abe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      542
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      542
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

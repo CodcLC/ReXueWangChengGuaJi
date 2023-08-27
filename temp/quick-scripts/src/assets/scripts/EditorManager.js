@@ -1,0 +1,56 @@
+"use strict";
+cc._RF.push(module, 'e84c9h26/pDL5ehMU5LlXD7', 'EditorManager');
+// scripts/EditorManager.js
+
+"use strict";
+
+var t = require;
+var e = module;
+var o = exports;
+Object.defineProperty(o, "__esModule", {
+  value: !0
+}), o.EditorManager = void 0;
+
+var a = function () {
+  function t() {
+    this.infostr = [];
+  }
+
+  return t.prototype.showBlockAd = function () {}, t.prototype.hideBlockAd = function () {}, t.prototype.getCode = function () {}, t.prototype.pauseRecord = function () {}, t.prototype.resumeRecord = function () {}, t.prototype.verifyKey = function () {}, t.prototype.toAppStore = function () {}, t.prototype.openNotify = function () {}, t.prototype.shareImg = function () {}, t.prototype.showWxNativeAD = function () {}, t.prototype.hideWxNativeAD = function () {}, t.prototype.hasVerify = function () {
+    return !1;
+  }, t.prototype.canShare = function () {
+    return !1;
+  }, t.prototype.youmengTrack = function () {}, t.prototype.initSdk = function (t, e) {
+    e && e();
+  }, t.prototype.login = function (t, e) {
+    e && e();
+  }, t.prototype.pay = function (t, e) {
+    e && e();
+  }, t.prototype.share = function (t, e) {
+    e && e();
+  }, t.prototype.showBanner = function (t, e) {
+    e && e();
+  }, t.prototype.hideBanner = function (t, e) {
+    e && e();
+  }, t.prototype.showInsertAd = function (t, e) {
+    e && e();
+  }, t.prototype.showVideoAd = function (t, e) {
+    e && e();
+  }, t.prototype.otherFun = function (t, e) {
+    e && e();
+  }, t.prototype.shark = function (t, e) {
+    e && e();
+  }, t.prototype.recordVideo = function (t, e) {
+    e && e();
+  }, t.prototype.shareVideo = function (t, e) {
+    e && e();
+  }, t.prototype.stopRecorderManager = function (t, e) {
+    e && e();
+  }, t.prototype.setLanguage = function (t, e) {
+    return e && e(), "zh";
+  }, t;
+}();
+
+o.EditorManager = a;
+
+cc._RF.pop();

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sign_reward_title",
+    "texture": "a40f2e42-52b9-4a45-a23d-8d6b9184e2d3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      553,
+      128
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      553,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Equip_10",
+    "texture": "0e2b921d-ce3e-4b2e-9d14-2dba937b37d7",
+    "atlas": "",
+    "rect": [
+      7,
+      5,
+      98,
+      97
+    ],
+    "offset": [
+      1,
+      1.5
+    ],
+    "originalSize": [
+      110,
+      110
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

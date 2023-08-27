@@ -1,0 +1,97 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "LabLadleWord",
+    "root": {
+      "__id__": 1
+    },
+    "node": {
+      "__id__": 2
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "LabLadleWord",
+    "_groupIndex": 1,
+    "groupIndex": 1,
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ]
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 117.13,
+      "height": 65.52
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "labStr",
+    "_groupIndex": 1,
+    "groupIndex": 1,
+    "_parent": {
+      "__id__": 1
+    },
+    "_components": [
+      {
+        "__type__": "cc.Label",
+        "_N$string": "101101",
+        "_fontSize": 52,
+        "_lineHeight": 52,
+        "_isSystemFontUsed": false,
+        "_styleFlags": 1,
+        "_N$horizontalAlign": 1,
+        "_N$verticalAlign": 1,
+        "node": {
+          "__id__": 2
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_N$file": {
+          "__uuid__": "8c35205c-acfd-43be-80ac-4ddcb4903d40"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "fileId": "16s6+tD3BAxLMAXVoiDOCa",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 92.73,
+      "height": 52
+    }
+  }
+]

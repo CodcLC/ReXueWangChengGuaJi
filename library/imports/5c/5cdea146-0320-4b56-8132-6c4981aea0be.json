@@ -1,0 +1,105 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "Particle1",
+    "root": {
+      "__id__": 1
+    },
+    "node": {
+      "__id__": 1
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "Particle1",
+    "_components": [
+      {
+        "__type__": "cc.ParticleSystem",
+        "_custom": true,
+        "autoRemoveOnFinish": true,
+        "totalParticles": 107,
+        "duration": 1,
+        "emissionRate": 100,
+        "life": 1.07,
+        "angle": 93,
+        "angleVar": 23,
+        "startSize": 22,
+        "startSizeVar": 17,
+        "endSize": 16,
+        "endSizeVar": 10,
+        "startSpin": -1379,
+        "startSpinVar": 60,
+        "endSpin": -1184,
+        "_positionType": 1,
+        "speed": 600,
+        "speedVar": 39,
+        "tangentialAccel": 102,
+        "tangentialAccelVar": 25,
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_startColor": {
+          "__type__": "cc.Color",
+          "a": 255,
+          "b": 0,
+          "g": 0,
+          "r": 255
+        },
+        "_startColorVar": {
+          "__type__": "cc.Color",
+          "a": 51,
+          "b": 76,
+          "g": 109,
+          "r": 0
+        },
+        "_endColor": {
+          "__type__": "cc.Color",
+          "a": 255,
+          "b": 86,
+          "g": 191,
+          "r": 0
+        },
+        "_endColorVar": {
+          "__type__": "cc.Color",
+          "a": 0,
+          "b": 255,
+          "g": 102,
+          "r": 0
+        },
+        "posVar": {
+          "__type__": "cc.Vec2",
+          "x": 395,
+          "y": 430
+        },
+        "gravity": {
+          "__type__": "cc.Vec2",
+          "x": 0,
+          "y": -700
+        },
+        "_file": {
+          "__uuid__": "81046076-4445-47ef-b91d-176c1459292e"
+        },
+        "_spriteFrame": {
+          "__uuid__": "47d5c5fb-f9ee-4a88-900f-bed39299266e"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      }
+    }
+  }
+]

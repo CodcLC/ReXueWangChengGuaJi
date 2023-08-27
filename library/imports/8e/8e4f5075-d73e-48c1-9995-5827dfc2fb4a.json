@@ -1,0 +1,67 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "buttonLight",
+    "root": {
+      "__id__": 1
+    },
+    "node": {
+      "__id__": 1
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "buttonLight",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "f4ef1865-8a12-4674-a604-d5ff44326b70"
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "playOnLoad": true,
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "3ae6f678-01da-4e07-9815-7f5cb0c45d32"
+          }
+        ],
+        "_defaultClip": {
+          "__uuid__": "3ae6f678-01da-4e07-9815-7f5cb0c45d32"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 128,
+      "height": 128
+    }
+  }
+]

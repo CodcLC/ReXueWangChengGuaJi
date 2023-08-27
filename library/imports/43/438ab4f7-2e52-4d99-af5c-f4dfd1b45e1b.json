@@ -1,0 +1,46 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "handAni",
+  "_duration": 0.6666666666666666,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "hand1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": true
+            }
+          ]
+        }
+      },
+      "hand2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": true
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": false
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "saoguang",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "width": 750,
+      "height": 633,
+      "fps": 24,
+      "hash": " ",
+      "name": "Armature"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "length": 634,
+        "x": -16.8,
+        "y": -411.45,
+        "rotation": 90,
+        "name": "1",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "矩形 945 拷贝 2",
+        "bone": "1",
+        "attachment": "矩形 945 拷贝 2"
+      }
+    ],
+    "skins": {
+      "default": {
+        "矩形 945 拷贝 2": {
+          "矩形 945 拷贝 2": {
+            "name": "矩形 945 拷贝 2",
+            "width": 750,
+            "height": 633,
+            "x": 314.71,
+            "y": -20.15,
+            "rotation": -90
+          }
+        }
+      }
+    },
+    "animations": {
+      "saoguang": {
+        "bones": {
+          "1": {
+            "translate": [
+              {
+                "time": 0,
+                "y": 894.78
+              },
+              {
+                "time": 0.25,
+                "y": -2.85
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 0.01,
+                "y": 1
+              },
+              {
+                "time": 0.25,
+                "x": 1,
+                "y": 1
+              },
+              {
+                "time": 0.75,
+                "x": 0.01,
+                "y": 1
+              }
+            ]
+          }
+        },
+        "slots": {
+          "矩形 945 拷贝 2": {
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFF00"
+              },
+              {
+                "time": 0.25,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.75,
+                "color": "FFFFFF00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nsaoguang.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n矩形 945 拷贝 2\n  rotate: false\n  xy: 1, 1\n  size: 750, 633\n  orig: 750, 633\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "888f67cf-b291-4af2-9282-ff98b0c2e874"
+    }
+  ],
+  "textureNames": [
+    "saoguang.png"
+  ],
+  "scale": 1
+}

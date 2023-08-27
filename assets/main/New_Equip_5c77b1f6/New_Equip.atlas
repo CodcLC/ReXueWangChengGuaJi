@@ -1,0 +1,13 @@
+
+New_Equip.png
+size: 118,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+new_equip
+  rotate: false
+  xy: 2, 2
+  size: 114, 77
+  orig: 115, 77
+  offset: 0, 0
+  index: -1

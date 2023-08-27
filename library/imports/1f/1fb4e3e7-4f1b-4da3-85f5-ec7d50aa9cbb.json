@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Dianjia0403f8d_0",
+    "texture": "6d81544c-155f-4773-9478-a4ef4b210f99",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

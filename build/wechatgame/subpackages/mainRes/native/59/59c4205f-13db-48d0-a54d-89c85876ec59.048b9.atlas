@@ -1,0 +1,160 @@
+
+cq_bxkq.png
+size: 1820,1330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_guang1
+  rotate: false
+  xy: 707, 342
+  size: 557, 304
+  orig: 601, 321
+  offset: 38, 6
+  index: -1
+bj_guang2
+  rotate: false
+  xy: 707, 648
+  size: 576, 305
+  orig: 602, 321
+  offset: 18, 5
+  index: -1
+box1_1
+  rotate: false
+  xy: 1268, 175
+  size: 225, 187
+  orig: 225, 187
+  offset: 0, 0
+  index: -1
+box1_2
+  rotate: false
+  xy: 1268, 37
+  size: 231, 136
+  orig: 233, 138
+  offset: 1, 1
+  index: -1
+box1_3
+  rotate: true
+  xy: 1658, 735
+  size: 221, 160
+  orig: 223, 162
+  offset: 1, 1
+  index: -1
+box2_1
+  rotate: false
+  xy: 1266, 364
+  size: 232, 198
+  orig: 232, 198
+  offset: 0, 0
+  index: -1
+box2_2
+  rotate: true
+  xy: 1529, 487
+  size: 238, 134
+  orig: 240, 136
+  offset: 1, 1
+  index: -1
+box2_3
+  rotate: false
+  xy: 1500, 334
+  size: 227, 151
+  orig: 234, 153
+  offset: 1, 1
+  index: -1
+box3_1
+  rotate: false
+  xy: 2, 2
+  size: 243, 201
+  orig: 243, 201
+  offset: 0, 0
+  index: -1
+box3_2
+  rotate: true
+  xy: 1665, 505
+  size: 228, 151
+  orig: 230, 153
+  offset: 1, 1
+  index: -1
+box3_3
+  rotate: false
+  xy: 1495, 177
+  size: 230, 155
+  orig: 232, 157
+  offset: 1, 1
+  index: -1
+box4_1
+  rotate: true
+  xy: 1066, 97
+  size: 243, 200
+  orig: 243, 200
+  offset: 0, 0
+  index: -1
+box4_2
+  rotate: false
+  xy: 1285, 564
+  size: 242, 161
+  orig: 244, 163
+  offset: 1, 1
+  index: -1
+box4_3
+  rotate: false
+  xy: 1501, 9
+  size: 240, 166
+  orig: 242, 168
+  offset: 1, 1
+  index: -1
+guang0
+  rotate: false
+  xy: 263, 471
+  size: 442, 478
+  orig: 548, 548
+  offset: 67, 27
+  index: -1
+guang1_1
+  rotate: false
+  xy: 699, 955
+  size: 597, 373
+  orig: 668, 431
+  offset: 46, 39
+  index: -1
+guang1_2
+  rotate: false
+  xy: 2, 951
+  size: 695, 377
+  orig: 740, 449
+  offset: 20, 33
+  index: -1
+guang1_3
+  rotate: false
+  xy: 263, 99
+  size: 418, 370
+  orig: 506, 428
+  offset: 42, 29
+  index: -1
+guang1_4
+  rotate: false
+  xy: 1298, 958
+  size: 436, 370
+  orig: 472, 400
+  offset: 15, 28
+  index: -1
+guang3
+  rotate: false
+  xy: 1298, 727
+  size: 358, 229
+  orig: 366, 245
+  offset: 4, 8
+  index: -1
+guang4
+  rotate: true
+  xy: 683, 8
+  size: 332, 381
+  orig: 335, 388
+  offset: 2, 5
+  index: -1
+guang5
+  rotate: false
+  xy: 2, 205
+  size: 259, 744
+  orig: 270, 747
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,48 @@
+
+dh_qdlx.png
+size: 761,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 1, 1
+  size: 528, 84
+  orig: 528, 84
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 694, 1
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 637, 1
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 583, 1
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+z4
+  rotate: false
+  xy: 531, 1
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+z5
+  rotate: false
+  xy: 741, 1
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1

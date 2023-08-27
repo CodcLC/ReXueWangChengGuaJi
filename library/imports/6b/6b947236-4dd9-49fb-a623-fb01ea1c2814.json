@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cq_jns_btd1",
+    "texture": "f5be7f9f-8bbc-43ef-b365-429e9e77a82d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

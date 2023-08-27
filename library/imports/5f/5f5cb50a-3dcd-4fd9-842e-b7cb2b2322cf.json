@@ -1,0 +1,67 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "EffPropUp",
+    "root": {
+      "__id__": 1
+    },
+    "node": {
+      "__id__": 1
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "EffPropUp",
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "defaultSkin": "default",
+        "defaultAnimation": "newAnimation",
+        "_preCacheMode": 0,
+        "loop": false,
+        "premultipliedAlpha": false,
+        "_animationName": "newAnimation",
+        "_playTimes": 1,
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+          }
+        ],
+        "_N$skeletonData": {
+          "__uuid__": "1dcc5e56-c764-4e51-97e8-db5e10f510c6"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        15,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1.4,
+        1.3,
+        1
+      ]
+    }
+  }
+]

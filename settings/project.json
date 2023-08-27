@@ -1,0 +1,44 @@
+{
+  "start-scene": "067cd63c-7413-41cf-9a74-36bfcb59a6a2",
+  "group-list": [
+    "default",
+    "game",
+    "player",
+    "monster",
+    "weapon"
+  ],
+  "collision-matrix": [
+    [
+      true
+    ],
+    [
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "migrate-history": [
+    "cloud-function"
+  ],
+  "last-module-event-record-time": 1693123117752
+}

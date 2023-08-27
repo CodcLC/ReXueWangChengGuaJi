@@ -1,0 +1,117 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "EffUpLv",
+    "root": {
+      "__id__": 1
+    },
+    "node": {
+      "__id__": 1
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "EffUpLv",
+    "_components": [
+      {
+        "__type__": "cc.ParticleSystem",
+        "_dstBlendFactor": 1,
+        "totalParticles": 24,
+        "duration": 0.6,
+        "emissionRate": 30,
+        "life": 0.8,
+        "lifeVar": 0.4,
+        "angleVar": 180,
+        "startSize": 100,
+        "startSizeVar": 60,
+        "endSize": 60,
+        "endSizeVar": 50,
+        "startSpin": 720,
+        "_positionType": 1,
+        "speed": 116,
+        "speedVar": 0,
+        "tangentialAccel": 0,
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_startColor": {
+          "__type__": "cc.Color",
+          "a": 255,
+          "b": 51,
+          "g": 204,
+          "r": 255
+        },
+        "_startColorVar": {
+          "__type__": "cc.Color",
+          "a": 25,
+          "b": 51,
+          "g": 0,
+          "r": 0
+        },
+        "_endColor": {
+          "__type__": "cc.Color",
+          "a": 255,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "_endColorVar": {
+          "__type__": "cc.Color",
+          "a": 0,
+          "b": 0,
+          "g": 0,
+          "r": 0
+        },
+        "posVar": {
+          "__type__": "cc.Vec2",
+          "x": 50,
+          "y": 50
+        },
+        "gravity": {
+          "__type__": "cc.Vec2",
+          "x": 0,
+          "y": 100
+        },
+        "_file": {
+          "__uuid__": "18b0d429-3c07-4b31-bdd6-841aaf27aba7"
+        },
+        "_spriteFrame": {
+          "__uuid__": "1cc54930-718e-4d77-9a04-d2057cfe1776"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        14.999999999999957,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  }
+]

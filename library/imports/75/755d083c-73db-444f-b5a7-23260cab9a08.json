@@ -1,0 +1,131 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "AnimCompositeEnd",
+  "_duration": 1.3333333333333333,
+  "curveData": {
+    "paths": {
+      "NodeCenter/NodeEquip": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.85,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "NodeCenter/NodeStar": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.85,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "NodeCenter/LabName": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "NodeCenter/LayoutProp": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "NodeCenter/BtnContinue": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "NodeCenter/SpTitle": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

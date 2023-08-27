@@ -1,0 +1,271 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "enemy_atk",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "m8FbutqELITeOsZ74DSADo/Ku2Y=",
+      "spine": "3.8.75"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "9_atk_7",
+        "parent": "root"
+      },
+      {
+        "name": "8_atk4",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "8_atk4",
+        "bone": "8_atk4"
+      },
+      {
+        "name": "9_atk_7",
+        "bone": "9_atk_7"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "8_atk4": {
+            "8_atk4": {
+              "x": -4.24,
+              "y": 302.96,
+              "width": 158,
+              "height": 186
+            },
+            "8_atk5": {
+              "x": -22.24,
+              "y": 258.46,
+              "width": 188,
+              "height": 249
+            },
+            "8_atk6": {
+              "x": -8.24,
+              "y": 166.46,
+              "width": 200,
+              "height": 503
+            },
+            "8_atk7": {
+              "x": -11.74,
+              "y": 172.46,
+              "width": 173,
+              "height": 479
+            },
+            "8_atk8": {
+              "x": -7.74,
+              "y": 167.46,
+              "width": 199,
+              "height": 501
+            },
+            "8_atk9": {
+              "x": -10.74,
+              "y": 167.96,
+              "width": 171,
+              "height": 470
+            },
+            "8_atk10": {
+              "x": -27.74,
+              "y": 191.46,
+              "width": 143,
+              "height": 429
+            },
+            "8_atk11": {
+              "x": -21.24,
+              "y": 189.46,
+              "width": 180,
+              "height": 421
+            },
+            "8_atk12": {
+              "x": -20.24,
+              "y": 187.96,
+              "width": 196,
+              "height": 412
+            }
+          },
+          "9_atk_7": {
+            "9_atk_7": {
+              "x": 22.71,
+              "y": 54.87,
+              "width": 292,
+              "height": 160
+            },
+            "9_atk_8": {
+              "x": 3.21,
+              "y": 123.37,
+              "width": 415,
+              "height": 301
+            },
+            "9_atk_9": {
+              "x": 7.71,
+              "y": 121.87,
+              "width": 416,
+              "height": 304
+            },
+            "9_atk_10": {
+              "x": 11.21,
+              "y": 121.87,
+              "width": 423,
+              "height": 304
+            },
+            "9_atk_11": {
+              "x": 11.21,
+              "y": 121.87,
+              "width": 423,
+              "height": 304
+            },
+            "9_atk_12": {
+              "x": 11.21,
+              "y": 121.87,
+              "width": 423,
+              "height": 304
+            },
+            "9_atk_13": {
+              "x": 2.71,
+              "y": 122.37,
+              "width": 406,
+              "height": 305
+            },
+            "9_atk_14": {
+              "x": 3.71,
+              "y": 124.87,
+              "width": 292,
+              "height": 300
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "8_attack": {
+        "slots": {
+          "8_atk4": {
+            "attachment": [
+              {
+                "name": "8_atk4"
+              },
+              {
+                "time": 0.0667,
+                "name": "8_atk5"
+              },
+              {
+                "time": 0.1333,
+                "name": "8_atk6"
+              },
+              {
+                "time": 0.2,
+                "name": "8_atk7"
+              },
+              {
+                "time": 0.2667,
+                "name": "8_atk8"
+              },
+              {
+                "time": 0.3333,
+                "name": "8_atk9"
+              },
+              {
+                "time": 0.4,
+                "name": "8_atk10"
+              },
+              {
+                "time": 0.4667,
+                "name": "8_atk11"
+              },
+              {
+                "time": 0.5333,
+                "name": "8_atk12"
+              },
+              {
+                "time": 0.6,
+                "name": null
+              }
+            ]
+          }
+        }
+      },
+      "9_attack": {
+        "slots": {
+          "9_atk_7": {
+            "color": [
+              {
+                "time": 0.4667,
+                "color": "ffffffff",
+                "curve": 0.25,
+                "c3": 0.223
+              },
+              {
+                "time": 0.6,
+                "color": "ffffff00"
+              }
+            ],
+            "attachment": [
+              {
+                "name": "9_atk_7"
+              },
+              {
+                "time": 0.0667,
+                "name": "9_atk_8"
+              },
+              {
+                "time": 0.1333,
+                "name": "9_atk_9"
+              },
+              {
+                "time": 0.2,
+                "name": "9_atk_10"
+              },
+              {
+                "time": 0.2667,
+                "name": "9_atk_11"
+              },
+              {
+                "time": 0.3333,
+                "name": "9_atk_12"
+              },
+              {
+                "time": 0.4,
+                "name": "9_atk_13"
+              },
+              {
+                "time": 0.4667,
+                "name": "9_atk_14"
+              },
+              {
+                "time": 0.6,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "9_atk_7": {
+            "scale": [
+              {
+                "x": 0.5
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nenemy_atk.png\nsize: 1925,832\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\n8_atk10\n  rotate: false\n  xy: 1783, 2\n  size: 140, 425\n  orig: 143, 429\n  offset: 1, 2\n  index: -1\n8_atk11\n  rotate: true\n  xy: 915, 62\n  size: 178, 417\n  orig: 180, 421\n  offset: 1, 2\n  index: -1\n8_atk12\n  rotate: true\n  xy: 504, 40\n  size: 194, 409\n  orig: 196, 412\n  offset: 1, 1\n  index: -1\n8_atk4\n  rotate: true\n  xy: 1714, 429\n  size: 154, 182\n  orig: 158, 186\n  offset: 2, 2\n  index: -1\n8_atk5\n  rotate: false\n  xy: 1735, 585\n  size: 185, 245\n  orig: 188, 249\n  offset: 1, 2\n  index: -1\n8_atk6\n  rotate: true\n  xy: 2, 37\n  size: 197, 500\n  orig: 200, 503\n  offset: 1, 2\n  index: -1\n8_atk7\n  rotate: true\n  xy: 1236, 461\n  size: 171, 476\n  orig: 173, 479\n  offset: 1, 1\n  index: -1\n8_atk8\n  rotate: true\n  xy: 1236, 634\n  size: 196, 497\n  orig: 199, 501\n  offset: 1, 2\n  index: -1\n8_atk9\n  rotate: true\n  xy: 1220, 291\n  size: 168, 466\n  orig: 171, 470\n  offset: 1, 2\n  index: -1\n9_atk_10\n  rotate: false\n  xy: 2, 534\n  size: 412, 296\n  orig: 423, 304\n  offset: 4, 4\n  index: -1\n9_atk_11\n  rotate: false\n  xy: 2, 236\n  size: 412, 296\n  orig: 423, 304\n  offset: 4, 4\n  index: -1\n9_atk_12\n  rotate: false\n  xy: 416, 534\n  size: 412, 296\n  orig: 423, 304\n  offset: 4, 4\n  index: -1\n9_atk_13\n  rotate: false\n  xy: 830, 242\n  size: 388, 295\n  orig: 406, 305\n  offset: 5, 5\n  index: -1\n9_atk_14\n  rotate: true\n  xy: 1334, 8\n  size: 281, 290\n  orig: 292, 300\n  offset: 4, 5\n  index: -1\n9_atk_7\n  rotate: true\n  xy: 1626, 10\n  size: 279, 155\n  orig: 292, 160\n  offset: 12, 4\n  index: -1\n9_atk_8\n  rotate: false\n  xy: 830, 539\n  size: 404, 291\n  orig: 415, 301\n  offset: 6, 4\n  index: -1\n9_atk_9\n  rotate: false\n  xy: 416, 236\n  size: 406, 296\n  orig: 416, 304\n  offset: 4, 4\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "199a9cd3-d15d-49cd-9877-1f883d7da0de"
+    }
+  ],
+  "textureNames": [
+    "enemy_atk.png"
+  ],
+  "scale": 1
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "EffGoodEquip3",
+    "root": {
+      "__id__": 1
+    },
+    "node": {
+      "__id__": 1
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "EffGoodEquip3",
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+          }
+        ],
+        "_spriteFrame": {
+          "__uuid__": "9849abc9-ea95-43dd-b3f4-5898510ecba5"
+        }
+      },
+      {
+        "__type__": "cc.Animation",
+        "node": {
+          "__id__": 1
+        },
+        "_clips": [
+          {
+            "__uuid__": "6deb2a3e-72a4-440e-ac42-bb34b01f1f57"
+          }
+        ],
+        "_defaultClip": {
+          "__uuid__": "6deb2a3e-72a4-440e-ac42-bb34b01f1f57"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_color": {
+      "__type__": "cc.Color",
+      "a": 255,
+      "b": 87,
+      "g": 255,
+      "r": 252
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 140,
+      "height": 140
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        14.999999999999957,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0.9,
+        0.9,
+        1
+      ]
+    }
+  }
+]

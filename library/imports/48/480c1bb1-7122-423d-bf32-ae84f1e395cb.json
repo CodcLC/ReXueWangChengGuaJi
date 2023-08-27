@@ -1,0 +1,55 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "EffSkill",
+    "root": {
+      "__id__": 1
+    },
+    "node": {
+      "__id__": 1
+    },
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "EffSkill",
+    "_components": [
+      {
+        "__type__": "sp.Skeleton",
+        "defaultSkin": "default",
+        "_preCacheMode": 0,
+        "loop": false,
+        "premultipliedAlpha": false,
+        "_animationName": "tx_sj",
+        "_playTimes": 1,
+        "node": {
+          "__id__": 1
+        },
+        "_materials": [
+          {
+            "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+          }
+        ],
+        "_N$skeletonData": {
+          "__uuid__": "38d5c413-a1d4-4745-9bf1-e4a843501883"
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      }
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 137.84,
+      "height": 180.36
+    }
+  }
+]

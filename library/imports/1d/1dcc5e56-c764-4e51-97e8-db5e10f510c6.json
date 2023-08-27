@@ -1,0 +1,102 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "kj_dh_wzsj",
+  "_objFlags": 0,
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "fps": 24,
+      "hash": " ",
+      "name": "MovieClip"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "guang",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "guang",
+        "bone": "guang"
+      }
+    ],
+    "skins": {
+      "default": {
+        "guang": {
+          "guang": {
+            "name": "guang",
+            "width": 162,
+            "height": 19
+          }
+        }
+      }
+    },
+    "animations": {
+      "newAnimation": {
+        "bones": {
+          "guang": {
+            "translate": [
+              {
+                "time": 0,
+                "x": -165.5
+              },
+              {
+                "time": 0.3333,
+                "x": 52.8
+              },
+              {
+                "time": 0.4583,
+                "x": 142
+              }
+            ],
+            "scale": [
+              {
+                "time": 0,
+                "x": 1,
+                "y": 1.2
+              }
+            ]
+          }
+        },
+        "slots": {
+          "guang": {
+            "attachment": [
+              {
+                "time": 0,
+                "name": "guang"
+              }
+            ],
+            "color": [
+              {
+                "time": 0,
+                "color": "FFFFFF00"
+              },
+              {
+                "time": 0.3333,
+                "color": "FFFFFFFF"
+              },
+              {
+                "time": 0.4583,
+                "color": "FFFFFF00"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "_atlasText": "\nkj_dh_wzsj.png\nsize: 256,32\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nguang\n  rotate: false\n  xy: 1, 1\n  size: 162, 19\n  orig: 162, 19\n  offset: 0, 0\n  index: -1\n",
+  "textures": [
+    {
+      "__uuid__": "2c0d3365-c497-48f5-9ecd-e5d77c0e00a2"
+    }
+  ],
+  "textureNames": [
+    "kj_dh_wzsj.png"
+  ],
+  "scale": 1
+}

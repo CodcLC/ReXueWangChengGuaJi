@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gift",
+    "texture": "8e3057cb-5598-4378-bf24-aa599e4ddcb9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      113,
+      123
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      113,
+      123
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

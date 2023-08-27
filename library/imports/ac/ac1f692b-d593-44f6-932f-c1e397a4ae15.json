@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cq_syh_kstg",
+    "texture": "4475e27e-e1f5-4ede-bf95-62f23ee0e60d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      427,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      427,
+      71
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

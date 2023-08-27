@@ -1,0 +1,118 @@
+
+enemy04.png
+size: 115,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_L_hand1
+  rotate: false
+  xy: 61, 66
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+4_L_hand2
+  rotate: true
+  xy: 2, 39
+  size: 34, 55
+  orig: 36, 57
+  offset: 1, 1
+  index: -1
+4_L_hand3
+  rotate: false
+  xy: 2, 2
+  size: 36, 35
+  orig: 38, 37
+  offset: 1, 1
+  index: -1
+4_R_hand1
+  rotate: true
+  xy: 63, 106
+  size: 55, 42
+  orig: 57, 44
+  offset: 1, 1
+  index: -1
+4_R_hand2
+  rotate: false
+  xy: 2, 75
+  size: 57, 53
+  orig: 59, 55
+  offset: 1, 1
+  index: -1
+4_R_hand3
+  rotate: true
+  xy: 63, 163
+  size: 31, 46
+  orig: 33, 48
+  offset: 1, 1
+  index: -1
+4_R_hand4
+  rotate: true
+  xy: 75, 5
+  size: 24, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+4_body
+  rotate: true
+  xy: 2, 266
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+4_body2
+  rotate: true
+  xy: 59, 31
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+4_head
+  rotate: false
+  xy: 2, 333
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+4_leg1
+  rotate: false
+  xy: 63, 196
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+4_leg2
+  rotate: false
+  xy: 40, 3
+  size: 33, 26
+  orig: 35, 28
+  offset: 1, 1
+  index: -1
+4_leg3
+  rotate: false
+  xy: 91, 379
+  size: 22, 41
+  orig: 24, 43
+  offset: 1, 1
+  index: -1
+4_weapon1
+  rotate: true
+  xy: 2, 422
+  size: 157, 110
+  orig: 157, 110
+  offset: 0, 0
+  index: -1
+4_weapon2
+  rotate: true
+  xy: 2, 130
+  size: 134, 59
+  orig: 136, 61
+  offset: 1, 1
+  index: -1
+4_weapon3
+  rotate: true
+  xy: 91, 248
+  size: 129, 16
+  orig: 131, 18
+  offset: 1, 1
+  index: -1

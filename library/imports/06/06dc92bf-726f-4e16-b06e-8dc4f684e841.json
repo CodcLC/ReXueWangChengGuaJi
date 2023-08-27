@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sign_big_circle",
+    "texture": "ff642db9-ee59-4c5e-88bb-f1815bf4dc65",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      745,
+      1039
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      745,
+      1039
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
